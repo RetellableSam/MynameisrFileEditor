@@ -1,0 +1,15 @@
+1. README:
+2. This-editor-is-not-intended-for-business-use.-This-editor-is-an-open-source-editor-for-people-who-want
+3. to-play-with-something-like-this.-This-program-is-not-ideal-for-home-use.
+4. .
+5. There-are-three-options-for-this-editor:-Read-/-Write-/-Contents
+6. The-selection-is-R/W/C
+7. R=Read-W=Write-C=Contents
+8. All-selection-protocols-are-in-lowercase.
+9. Format:-(r/w/c)-(file1/file2/file3/file4/file5/file6)
+10. Above-is-the-format.
+11. .
+12. The-read-function-will-ask-you-what-file-you-want-to-read-from-(Format-above.).-Then-it-will-display-the
+13. contents-of-that-file
+14. .
+15. The-Write-function-will-ask-you-what-file-you-want-to-edit.-Then-you-have-to-write-15-lines.-Then-it-will-ask-you-want-you-want-to-name-the-file.-Then-the-program-will-terminate-and-all-data-is-saved
